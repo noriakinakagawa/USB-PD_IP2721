@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name UJC-HP-3-SMT-TR)(type KiCad)(uri ${KIPRJMOD}/UJC-HP-3-SMT-TR)(options "")(descr ""))
+  (lib (name TPN1R603PL)(type KiCad)(uri ${KIPRJMOD}/TPN1R603PL)(options "")(descr ""))
+  (lib (name SolderJumper)(type KiCad)(uri ${KIPRJMOD}/SolderJumper.pretty)(options "")(descr ""))
+)

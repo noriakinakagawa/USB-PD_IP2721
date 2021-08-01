@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name IP2721)(type Legacy)(uri ${KIPRJMOD}/IP2721/IP2721.lib)(options "")(descr ""))
+  (lib (name UJC-HP-3-SMT-TR)(type Legacy)(uri ${KIPRJMOD}/UJC-HP-3-SMT-TR/UJC-HP-3-SMT-TR.lib)(options "")(descr ""))
+  (lib (name TPN1R603PL)(type Legacy)(uri ${KIPRJMOD}/IP2721_15V/TPN1R603PL/TPN1R603PL.lib)(options "")(descr ""))
+  (lib (name IP2721_15V-rescue)(type Legacy)(uri ${KIPRJMOD}/IP2721_15V-rescue.lib)(options "")(descr ""))
+)
